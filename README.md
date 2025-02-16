@@ -1,0 +1,7 @@
+│── index.php       (Login Page)
+│── register.php    (Registration Page)
+│── welcome.php     (Dashboard after login)
+│── logout.php      (Logout Page)
+│── db.php          (Database Connection)
+│── styles.css      (CSS Styles)
+│── README.md       (Documentation)
